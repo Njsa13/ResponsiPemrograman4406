@@ -1,0 +1,7 @@
+D:\Kuliah\S2\Pemrograman\ResponsiPemrograman4406\ResponsiPemrograman4406\bin\Debug\ResponsiPemrograman4406.exe.config
+D:\Kuliah\S2\Pemrograman\ResponsiPemrograman4406\ResponsiPemrograman4406\bin\Debug\ResponsiPemrograman4406.exe
+D:\Kuliah\S2\Pemrograman\ResponsiPemrograman4406\ResponsiPemrograman4406\bin\Debug\ResponsiPemrograman4406.pdb
+D:\Kuliah\S2\Pemrograman\ResponsiPemrograman4406\ResponsiPemrograman4406\obj\Debug\ResponsiPemrograman4406.csprojAssemblyReference.cache
+D:\Kuliah\S2\Pemrograman\ResponsiPemrograman4406\ResponsiPemrograman4406\obj\Debug\ResponsiPemrograman4406.csproj.CoreCompileInputs.cache
+D:\Kuliah\S2\Pemrograman\ResponsiPemrograman4406\ResponsiPemrograman4406\obj\Debug\ResponsiPemrograman4406.exe
+D:\Kuliah\S2\Pemrograman\ResponsiPemrograman4406\ResponsiPemrograman4406\obj\Debug\ResponsiPemrograman4406.pdb
